@@ -19,7 +19,7 @@ I'm a **Bioinformatician**, **Data Analyst**, and **Developer**, passionate abou
 ---
 
 ### 🚀 Recent Project:
-- 🧬 **[DGEAR-Web](https://github.com/koushikbardhan2000/DGEAR-web)** – A web-based tool for Differential Gene Expression Analysis using ensemble statistical models.
+- 🧬 **[DGEAR-Web](https://musing-bush-92495.pktriot.net/webtool/)** – A web-based Differential Gene Expression Analysis tool using ensemble statistical models.
 
 ---
 
@@ -33,7 +33,7 @@ I'm a **Bioinformatician**, **Data Analyst**, and **Developer**, passionate abou
 ### 📫 Reach Me At:
 - 📧 Email: bardhankoushik2000@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/koushik-bardhan-459895225/)
-- 🔬 [ORCID](https://orcid.org/0009-0006-2926-6520)
+- 🔬 [ORCID](https://orcid.org/0009-0002-8846-8347)
 - 🐍 [GitHub](https://github.com/koushikbardhan2000)
 
 ---
