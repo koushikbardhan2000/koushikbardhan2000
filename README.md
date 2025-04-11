@@ -31,7 +31,7 @@ I'm a **Bioinformatician**, **Data Analyst**, and **Developer**, passionate abou
 ---
 
 ### 📫 Reach Me At:
-- 📧 Email: bardhankoushik2000@gmail.com
+- 📧 Email: koushikbardhan2000@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/koushik-bardhan-459895225/)
 - 🔬 [ORCID](https://orcid.org/0009-0002-8846-8347)
 - 🐍 [GitHub](https://github.com/koushikbardhan2000)
