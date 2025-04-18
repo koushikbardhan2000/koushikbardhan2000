@@ -19,7 +19,7 @@ I'm a **Bioinformatician**, **Data Analyst**, and **Developer**, passionate abou
 ---
 
 ### 🚀 Recent Project:
-- 🧬 **[DGEAR-Web](https://musing-bush-92495.pktriot.net/webtool/)** – A web-based Differential Gene Expression Analysis tool using ensemble statistical models.
+- 🧬 **[DGEAR-Web](https://compbiosysnbu.in/DGEAR/index.php)** – A web-based Differential Gene Expression Analysis tool using ensemble statistical models.
 
 ---
 
