@@ -11,18 +11,32 @@ I'm a **Bioinformatician**, **Data Analyst**, and **Developer**, passionate abou
 
 ---
 
+### 🚀 Recent Project:
+- 🧬 **[DGEAR-Web](https://compbiosysnbu.in/DGEAR/)** – A web-based Differential Gene Expression Analysis tool using ensemble statistical models.
+- 🌐 **[BioDive](https://biodivecorporation.kesug.com/)** - At BioDive, we specialize in providing top-tier online bioinformatics analysis and scientific writing services.
+
+---
+
+### 📫 Reach Me At:
+- 📧 Email: koushikbardhan2000@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/koushik-bardhan-459895225/)
+- 💼 [Vidwan](https://vidwan.inflibnet.ac.in/profile/563932)
+- 🔬 [ORCID](https://orcid.org/0009-0002-8846-8347)
+- 🐍 [GitHub](https://github.com/koushikbardhan2000)
+
+---
+
+### 😄 Pronouns:
+He/Him ...not complicated at all right?
+
+---
+
 ### 🌱 Currently Learning:
 - Full-stack Web Development (MERN Stack)
 - Next-gen tools for scientific computing
 - Advanced ML applications in genomics
 
 ---
-
-### 🚀 Recent Project:
-- 🧬 **[DGEAR-Web](https://compbiosysnbu.in/DGEAR/index.php)** – A web-based Differential Gene Expression Analysis tool using ensemble statistical models.
-
----
-
 ### 🤝 Open to Collaborate On:
 - Open-source bioinformatics tools
 - Research projects in omics data analysis
@@ -30,21 +44,7 @@ I'm a **Bioinformatician**, **Data Analyst**, and **Developer**, passionate abou
 
 ---
 
-### 📫 Reach Me At:
-- 📧 Email: koushikbardhan2000@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/koushik-bardhan-459895225/)
-- 🔬 [ORCID](https://orcid.org/0009-0002-8846-8347)
-- 🐍 [GitHub](https://github.com/koushikbardhan2000)
-
----
-
-### 😄 Pronouns:
-He/Him
-
----
-
 ### ⚡ Fun Fact:
 I love bike rides, anime, and digging through high-dimensional biological data for hidden patterns!
 
 ---
-
